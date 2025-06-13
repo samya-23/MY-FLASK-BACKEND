@@ -1,0 +1,26 @@
+[
+    {
+        "name": "abc",
+        "email": "abc@gmail.com",
+        "phone": "9999999999",
+        "timestamp": "2025-06-13T20:05:07.433904"
+    },
+    {
+        "name": "xyz",
+        "email": "xyz@gmail.com",
+        "phone": "1234567890",
+        "timestamp": "2025-06-13T20:18:37.445001"
+    },
+    {
+        "name": "pqr",
+        "email": "pqr@gmail.com",
+        "phone": "9835775694",
+        "timestamp": "2025-06-13T20:19:25.315893"
+    },
+    {
+        "name": "samya soni",
+        "email": "qqq@gmail.com",
+        "phone": "1233567890",
+        "timestamp": "2025-06-13T20:38:34.076020"
+    }
+]
